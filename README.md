@@ -1,66 +1,84 @@
-# 👋 Assalomu alaykum, men Abduraxmonov Abdulahad
+<h1 align="center">Hi 👋, I'm Cybersecurity Specialist</h1>
 
-🎯 Cybersecurity Specialist | Ethical Hacker | SOC Analyst  
-🔐 Axborot xavfsizligi va tizimlarni himoyalash bo‘yicha mutaxassis  
-
----
-
-## 🧑‍💻 Men haqimda
-
-Men kiberxavfsizlik sohasiga ixtisoslashgan mutaxassisman.  
-Tarmoqlar xavfsizligi, penetration testing va zaifliklarni aniqlash yo‘nalishida ishlayman.
-
-💡 Maqsadim — tizimlarni himoyalash, zaifliklarni aniqlash va xavfsiz infratuzilma yaratish.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=500&lines=Cybersecurity+Specialist;Penetration+Tester;Web+Security+Researcher;Ethical+Hacker;Always+Learning+Security" />
+</p>
 
 ---
 
-## 🛡️ Ko‘nikmalar
+## 👨‍💻 About Me
 
-- 🔎 Penetration Testing
-- 🌐 Network Security
-- 🐧 Linux Administration
-- 🧪 Vulnerability Assessment
-- 🔥 Web Security (OWASP Top 10)
-- 📊 SIEM Monitoring (Wazuh, Splunk)
-- 🐍 Python for Security
-- 🗄️ SQL & Database Security
+🔐 Cybersecurity Specialist focused on **Web Security & Penetration Testing**
 
----
-
-## 🧰 Texnologiyalar va vositalar
-
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Metasploit](https://img.shields.io/badge/Metasploit-2C3E50?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+- 🛡️ Finding vulnerabilities and improving system security
+- 💻 Passionate about ethical hacking
+- 🔍 Interested in vulnerability research
+- ⚡ Building automation tools for security testing
+- 🌱 Currently improving **Advanced Pentesting & Cloud Security**
 
 ---
 
-## 📂 Loyihalar
+## 🛠 Tech Stack
 
-🔹 Vulnerability Scanner (Python asosida)  
-🔹 Web Application Security Testing Lab  
-🔹 SOC Monitoring Lab (Wazuh + ELK)  
-🔹 Capture The Flag (CTF) Writeups  
+### 🔐 Security
 
----
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kalilinux)
+![Burp Suite](https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-blue?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-red?style=for-the-badge)
 
-## 📈 GitHub Statistikam
+### ⚡ Security Tools
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
-
----
-
-## 📫 Bog‘lanish
-
-📧 Email: your_email@example.com  
-🌐 LinkedIn: linkedin.com/in/yourprofile  
-📱 Telegram: @yourusername  
+![Nmap](https://img.shields.io/badge/Nmap-blue?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge)
+![Gobuster](https://img.shields.io/badge/Gobuster-black?style=for-the-badge)
+![FFUF](https://img.shields.io/badge/FFUF-darkgreen?style=for-the-badge)
 
 ---
 
-> "Security is not a product, but a process." – Bruce Schneier
+## 💻 Programming
 
-⭐ Agar loyihalarim sizga foydali bo‘lsa, repo’larni yulduzcha bilan qo‘llab-quvvatlang!
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+🚀 Advanced Penetration Testing  
+🔍 Vulnerability Research  
+🌐 Web Application Security  
+⚡ Security Automation  
+🐍 Python Security Tools  
+☁️ Cloud Security  
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/YOURUSERNAME)
+
+---
+
+⭐ *"Defending systems by thinking like an attacker."*
